@@ -1,5 +1,3 @@
-Este é um guia sugerido para o seu projeto, estruturado para ser profissional e útil para quem for visualizar seu repositório no GitHub.
-
 API REST com Node.js e TypeScript
 Esta é uma API REST desenvolvida para estudos, focada na gestão de produtos. O projeto explora conceitos fundamentais como roteamento, middlewares, tratamento de erros customizados e validação de dados.
 
